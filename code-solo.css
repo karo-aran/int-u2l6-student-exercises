@@ -11,8 +11,15 @@
 /* Add the styling for the spicy task below. */
 /* The image should have a position property with value of fixed, a bottom property with a value of 10px, and a right property with a value of 10px. */
 
+.sample-1 {
+    display: flex;
+    justify-content: flex-start;
+}
 
-
+.sample-2 {
+    display: flex;
+    justify-content: space-between;
+}
 
 
 /** Styling for the items of Sample 1 **/
